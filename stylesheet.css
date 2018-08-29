@@ -11,14 +11,14 @@
 
 /* This applies to every element/tag */
 * {
-	color: white;
+	
 
 	font-family: adamCG;
 	font-size: 20px;
 }
 
 body, html {
-	background-color: #ef8b09;
+	background-color: white;
 }
 
 h1 {
@@ -47,7 +47,7 @@ h2 + h3 + p {
 
 /* Navigation Pane stuff */
 #navigationPane {
-	border-bottom: 2px solid white;
+	border-bottom: 2px solid black;
 	width: 100%;
 	text-align: center;
 }
@@ -58,15 +58,15 @@ h2 + h3 + p {
 
 /* For when your mouse hovers over a button on the pane */
 #navigationPane td:hover {
-	background-color: #ffa128;
+	background-color: #cccccc;
 }
 
 #navigationPane td:hover a {
-	background-color: #ffa128;
+	background-color: #cccccc;
 }
 
 .blurb {
-	background-color: #D67F0E;
+	background-color: #cccccc;
 	padding: 20px 50px 20px 50px;
 
 	font-style: italic;
@@ -77,4 +77,20 @@ h2 + h3 + p {
 
 .time {
 	display: inline;
+}
+
+.period {
+	vertical-align: bottom;
+	float: up;
+	width: 22.64%;
+	padding: 20px 20px 20px 20px;
+	display: inline-block;
+}
+
+.period2 {
+	vertical-align: top;
+	float: up;
+	width: 22.64%;
+	padding: 20px 20px 20px 20px;
+	display: inline-block;
 }
