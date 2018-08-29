@@ -1,0 +1,80 @@
+/* Used to declare Adam CG Pro Font face */
+@font-face {
+	font-family: adamCG;
+	src: url(assets/adamCG.otf);
+}
+
+@font-face {
+	font-family: sourceSerif;
+	src: url(assets/sourceSerif.ttf);
+}
+
+/* This applies to every element/tag */
+* {
+	color: white;
+
+	font-family: adamCG;
+	font-size: 20px;
+}
+
+body, html {
+	background-color: #ef8b09;
+}
+
+h1 {
+	font-size: 45px;
+	text-align: center;
+}
+
+h2 {
+	font-size: 38px;
+	margin-bottom: 10px;
+}
+
+/* signifies every h3 that follows directly after an h2 */
+h2 + h3 {
+	font-family: sourceSerif;
+	font-size: 25px;
+	font-style: italic;
+	
+	display: inline;
+	margin-bottom: 10px;
+}
+
+h2 + h3 + p {
+	margin-top: 0px;
+}
+
+/* Navigation Pane stuff */
+#navigationPane {
+	border-bottom: 2px solid white;
+	width: 100%;
+	text-align: center;
+}
+
+#navigationPane td {
+	width: 33%;
+}
+
+/* For when your mouse hovers over a button on the pane */
+#navigationPane td:hover {
+	background-color: #ffa128;
+}
+
+#navigationPane td:hover a {
+	background-color: #ffa128;
+}
+
+.blurb {
+	background-color: #D67F0E;
+	padding: 20px 50px 20px 50px;
+
+	font-style: italic;
+	font-weight: bold;
+	font-family: sourceSerif;
+	font-size: 25px;
+}
+
+.time {
+	display: inline;
+}
