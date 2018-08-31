@@ -9,10 +9,13 @@
 	src: url(assets/sourceSerif.ttf);
 }
 
+@font-face {
+	font-family: cabin;
+	src: url(assets/cabin.ttf);
+}
+
 /* This applies to every element/tag */
 * {
-	
-
 	font-family: adamCG;
 	font-size: 20px;
 }
@@ -52,6 +55,10 @@ h2 + h3 + p {
 	text-align: center;
 }
 
+#navigationPane a {
+	color: black;
+}
+
 #navigationPane td {
 	width: 33%;
 }
@@ -79,18 +86,24 @@ h2 + h3 + p {
 	display: inline;
 }
 
-.period {
-	vertical-align: bottom;
-	float: up;
-	width: 22.64%;
-	padding: 20px 20px 20px 20px;
-	display: inline-block;
+.line {
+	height: 100%;
 }
 
-.period2 {
-	vertical-align: top;
-	float: up;
-	width: 22.64%;
-	padding: 20px 20px 20px 20px;
+#line3 {
+	text-align: center;
+}
+
+.period {
+	height: 350px;
+	width: 20%;
+
+	padding: 2% 2% 2% 2%/*20px 20px 20px 20px*/;
 	display: inline-block;
+	vertical-align: top;
+}
+
+.period p {
+	font-family: cabin;
+	text-align: justify;
 }

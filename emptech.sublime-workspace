@@ -35,7 +35,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 1176,
+				"buffer_size": 7621,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "<html>"
@@ -63,7 +63,7 @@
 			"file": "stylesheet.css",
 			"settings":
 			{
-				"buffer_size": 1163,
+				"buffer_size": 1501,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -106,7 +106,7 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/user/Documents/Website Projects/EMPTECH Project"
+		"/C/Users/user/Documents/GitHub/HistoryOfESports"
 	],
 	"file_history":
 	[
@@ -115,7 +115,7 @@
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 29.0
 	},
 	"find_in_files":
 	{
@@ -129,6 +129,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"justify"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -155,15 +156,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1176,
+						"buffer_size": 7621,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								802,
-								802
+								5062,
+								5062
 							]
 						],
 						"settings":
@@ -172,10 +173,10 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 775.0,
+						"translation.y": 2392.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -247,15 +248,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1163,
+						"buffer_size": 1501,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								586,
-								586
+								1308,
+								1308
 							]
 						],
 						"settings":
@@ -263,10 +264,10 @@
 							"syntax": "Packages/CSS/CSS.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 486.0,
+						"translation.y": 1475.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -274,7 +275,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 29.0
 	},
 	"input":
 	{
@@ -300,7 +301,7 @@
 		"cols":
 		[
 			0.0,
-			0.455592105263,
+			0.643914473684,
 			1.0
 		],
 		"rows":
@@ -318,7 +319,7 @@
 	"project": "emptech.sublime-project",
 	"replace":
 	{
-		"height": 0.0
+		"height": 54.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -348,7 +349,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
