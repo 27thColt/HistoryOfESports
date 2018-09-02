@@ -95,7 +95,7 @@ h2 + h3 + p {
 }
 
 .period {
-	height: 350px;
+	height: 420px;
 	width: 20%;
 
 	padding: 2% 2% 2% 2%/*20px 20px 20px 20px*/;
@@ -103,7 +103,45 @@ h2 + h3 + p {
 	vertical-align: top;
 }
 
+.periodImage {
+	height: 420px;
+	width: 50%;
+
+	padding: 2% 0px 2% 0px;
+	display: inline-block;
+	vertical-align: top;
+
+	text-align: center;
+}
+
 .period p {
 	font-family: cabin;
 	text-align: justify;
+}
+
+.periodImage p {
+	font-family: cabin;
+}
+
+.bio {
+	height: 600px;
+	width: 45%;
+
+	padding: 2% 2% 2% 2%/*20px 20px 20px 20px*/;
+	display: inline-block;
+	vertical-align: top;
+
+	text-align: center;
+}
+
+.bio p {
+	font-family: sourceSerif;
+	font-weight: bold;
+
+	text-align: left;
+}
+
+.bio h3 {
+	font-family: adamCG;
+	font-size: 25px;
 }

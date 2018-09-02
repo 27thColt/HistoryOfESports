@@ -35,7 +35,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 7621,
+				"buffer_size": 8890,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "<html>"
@@ -63,7 +63,7 @@
 			"file": "stylesheet.css",
 			"settings":
 			{
-				"buffer_size": 1501,
+				"buffer_size": 1725,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -115,7 +115,7 @@
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
@@ -156,15 +156,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7621,
+						"buffer_size": 8890,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5062,
-								5062
+								4067,
+								4067
 							]
 						],
 						"settings":
@@ -173,7 +173,7 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2392.0,
+						"translation.y": 2533.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -248,15 +248,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1501,
+						"buffer_size": 1725,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1308,
-								1308
+								1663,
+								1663
 							]
 						],
 						"settings":
@@ -264,7 +264,7 @@
 							"syntax": "Packages/CSS/CSS.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1475.0,
+						"translation.y": 1931.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -275,7 +275,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 29.0
+		"height": 27.0
 	},
 	"input":
 	{
@@ -301,7 +301,7 @@
 		"cols":
 		[
 			0.0,
-			0.643914473684,
+			0.534539473684,
 			1.0
 		],
 		"rows":
@@ -319,7 +319,7 @@
 	"project": "emptech.sublime-project",
 	"replace":
 	{
-		"height": 54.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
