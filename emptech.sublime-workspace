@@ -35,7 +35,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 9531,
+				"buffer_size": 9529,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "<html>"
@@ -54,7 +54,7 @@
 			"file": "faq.html",
 			"settings":
 			{
-				"buffer_size": 780,
+				"buffer_size": 3893,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -149,7 +149,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -158,15 +158,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9531,
+						"buffer_size": 9529,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								429,
-								429
+								1121,
+								1121
 							]
 						],
 						"settings":
@@ -175,10 +175,10 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 87.0,
+						"translation.y": 411.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -206,7 +206,7 @@
 						"translation.y": 63.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -215,15 +215,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 780,
+						"buffer_size": 3893,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								185,
-								210
+								3672,
+								3672
 							]
 						],
 						"settings":
@@ -232,10 +232,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 956.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
