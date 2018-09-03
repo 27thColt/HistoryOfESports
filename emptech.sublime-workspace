@@ -35,7 +35,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 9450,
+				"buffer_size": 9531,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "<html>"
@@ -45,7 +45,7 @@
 			"file": "about_us.html",
 			"settings":
 			{
-				"buffer_size": 1988,
+				"buffer_size": 2110,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -54,7 +54,7 @@
 			"file": "faq.html",
 			"settings":
 			{
-				"buffer_size": 699,
+				"buffer_size": 780,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -106,7 +106,8 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/user/Documents/GitHub/HistoryOfESports"
+		"/C/Users/user/Documents/GitHub/HistoryOfESports",
+		"/C/Users/user/Documents/GitHub/HistoryOfESports/assets"
 	],
 	"file_history":
 	[
@@ -115,7 +116,7 @@
 	],
 	"find":
 	{
-		"height": 41.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -148,7 +149,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -157,15 +158,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9450,
+						"buffer_size": 9531,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								857,
-								857
+								429,
+								429
 							]
 						],
 						"settings":
@@ -174,10 +175,10 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 339.0,
+						"translation.y": 87.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -186,15 +187,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1988,
+						"buffer_size": 2110,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								633,
-								633
+								219,
+								219
 							]
 						],
 						"settings":
@@ -202,7 +203,7 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 171.0,
+						"translation.y": 63.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -214,15 +215,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 699,
+						"buffer_size": 780,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								168,
-								168
+								185,
+								210
 							]
 						],
 						"settings":
@@ -234,7 +235,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
